@@ -34,7 +34,7 @@ Este é um projeto simples que exibe informações sobre atletas olímpicos bras
 
 ## Como Executar
 
-1. Acesse o projeto pelo link: [Atletas do Brasil](https://alura-gemini-nine.vercel.app/)
+1. Acesse o projeto pelo link: [Atletas do Brasil](https://imers-o-dev-com-google-gemini-three.vercel.app)
 2. Utilize o campo de pesquisa para procurar por atletas e visualizar as informações.
 
 ---

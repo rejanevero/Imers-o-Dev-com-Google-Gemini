@@ -3,6 +3,7 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/13ba101d-a531-420a-8615-51d3d25e5c22)
 # Atletas do Brasil
 
 Este é um projeto simples que exibe informações sobre atletas olímpicos brasileiros de destaque. A ideia é permitir que os usuários pesquisem por nomes de atletas ou esportes para descobrir mais sobre os grandes talentos do Brasil nas Olimpíadas.
